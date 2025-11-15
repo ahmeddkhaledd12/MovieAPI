@@ -1,0 +1,7 @@
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.csproj.AssemblyReference.cache
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.AssemblyInfoInputs.cache
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.AssemblyInfo.cs
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RGB-Electronics\source\repos\MovieAPI\MovieAPI\obj\Debug\net8.0\MovieAPI.MvcApplicationPartsAssemblyInfo.cache
